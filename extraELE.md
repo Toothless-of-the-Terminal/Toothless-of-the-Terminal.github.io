@@ -16,15 +16,15 @@ permalink: /ExtraELE/
 <script>javascript:document.body.contentEditable='true';</script>
 ```
 
-* Some JavaScript commands can be entered in Empower without adding anything; others require `<script>` tags or an `<img>` with an `onerror` handler. Example (shown as code — do NOT run this on sites you do not control):
+* Some JavaScript commands can be entered in Empower without adding anything; others require `<script>` tags or a broken `<img>`. Example (shown as code):
 
 ```html
-<img src="y" onerror="/* your_script_here */" />
+<img src="var" onerror"your_script_here" />
 ```
 
-(Replace /* your_script_here */ with the code you want to show; if the code contains double quotes, switch them to single quotes inside the handler.)
+(Replace _your_script_here_ with the code you want to show; replace _var_ with any lowercase letters; and if the code contains double quotes, switch them to single quotes inside the handler.)
 
-* It is OK to use AI to code modifications of already-made code, as long as you credit @Copper90, @toothless-of-the-terminal (me), and the AI that made it.
+* It is OK to use AI to code modifications of already-made code, as long as you credit @Copper90, @toothless-of-the-terminal (me), and the AI that made the modifications.
 
 [https://hth.empowerlearning.net/iFrame.aspx?iCtrl=STUDENT_BASE_HOME_CONTROL]
 
