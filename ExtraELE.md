@@ -4,7 +4,7 @@ title: extraELE
 permalink: /extraELE/
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 # Welcome To Some extra Empower Learning Exploits!
 
