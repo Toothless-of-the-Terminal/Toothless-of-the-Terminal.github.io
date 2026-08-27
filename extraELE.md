@@ -10,7 +10,7 @@ permalink: /ExtraELE/
 
 #### Empower (a school program used in schools as an alternative to Canvas) is not the most secure, so I found some more exploits :D
 
-###### **Notice; misuse of this code is all the fault of the person whom used the code in an inappropriate or irresponsible manor. any punishment/consequense rests solely on the shoulder of the aggressor/cheater. Please note that this project and the project of @Copper90 are for educational purposes*
+###### **Notice; misuse of this code is all the fault of the person whom used the code in an inappropriate or irresponsible manor. any punishment/consequense rests solely on the shoulder of the aggressor/cheater. Please note that this project and the project of @Copper90 are for educational purposes.*
 
 * Sometimes when you send scripts in messages, everything bugs out. To fix, send a message to a friend that contains:
 
