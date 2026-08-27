@@ -1,5 +1,6 @@
 ---
-title: extraELE
+layout: default 
+title: extraELE 
 permalink: /extraELE/
 ---
 
