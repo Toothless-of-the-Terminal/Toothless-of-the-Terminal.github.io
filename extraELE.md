@@ -26,7 +26,7 @@ permalink: /ExtraELE/
 
 (Replace _your_script_here_ with the code you want to show; replace _var_ with any lowercase letters; and if the code contains double quotes, switch them to single quotes inside the editor/handler.)
 
-* It is OK to use AI to code modifications of already-made code, as long as you credit @Copper90, @toothless-of-the-terminal (me), and the AI that made the modifications. You are responsible for any code you or your AI make.
+* You are allowed to use AI to code modifications of already-made code, as long as you credit @Copper90, @toothless-of-the-terminal (me), and the AI that made the modifications. You are responsible for any code you or your AI make.
 
 [Link to Empower](https://hth.empowerlearning.net/iFrame.aspx?iCtrl=STUDENT_BASE_HOME_CONTROL)
 
