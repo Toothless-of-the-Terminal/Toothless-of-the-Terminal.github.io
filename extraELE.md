@@ -28,6 +28,6 @@ permalink: /ExtraELE/
 
 [Link to Empower](https://hth.empowerlearning.net/iFrame.aspx?iCtrl=STUDENT_BASE_HOME_CONTROL)
 
-### [Page 1](Toothless-of-the-Terminal.github.io)
+### [Page 1](https://toothless-of-the-terminal.github.io/)
 
 </div>
