@@ -26,6 +26,8 @@ permalink: /ExtraELE/
 
 * It is OK to use AI to code modifications of already-made code, as long as you credit @Copper90, @toothless-of-the-terminal (me), and the AI that made the modifications.
 
-[https://hth.empowerlearning.net/iFrame.aspx?iCtrl=STUDENT_BASE_HOME_CONTROL]
+[Link to Empower](https://hth.empowerlearning.net/iFrame.aspx?iCtrl=STUDENT_BASE_HOME_CONTROL)
+
+### [Page 1](Toothless-of-the-Terminal.github.io)
 
 </div>
