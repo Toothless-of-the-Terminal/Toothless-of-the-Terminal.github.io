@@ -9,6 +9,6 @@
  
  <img width="130.4" height="79.2" alt="Dwagon Color Complete" src="https://github.com/user-attachments/assets/d5665050-125c-401a-bd14-bcd4832c5233" />
 
-### [Page 2](Toothless-of-the-Terminal.github.io/ExtraELE)
+### [Page 2](https://toothless-of-the-terminal.github.io/ExtraELE/)
 
 </div>
