@@ -1,7 +1,7 @@
 ---
 layout: default 
-title: extraELE 
-permalink: /extraELE/
+title: ExtraELE 
+permalink: /ExtraELE/
 ---
 
 <div align="center" markdown="1">
